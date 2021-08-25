@@ -1,1 +1,3 @@
 first file! ok ive edited the little bastard
+hello
+>>>>>>> 08d5f0ce35edb4e17c8bfebdd936d9bee46a4e4d
